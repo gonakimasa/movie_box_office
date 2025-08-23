@@ -1,0 +1,8 @@
+echo '__pycache__/
+*.pyc
+*.db
+.env
+logs/
+dbt_modules/
+dbt_packages/
+.vscode/' > .gitignore

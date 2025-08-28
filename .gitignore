@@ -6,3 +6,5 @@ logs/
 dbt_modules/
 dbt_packages/
 .vscode/' > .gitignore
+.venv/
+.env
